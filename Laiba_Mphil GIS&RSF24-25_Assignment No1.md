@@ -42,8 +42,6 @@ Projects = """
 
 Skills = "ArcGIS, Digitization, Georeferencing, Canva, MS Office"
 
-Github_link = "GitHub:
-
 # Printing the CV
 print(Name)
 print("Laiba Farooq's CV")
